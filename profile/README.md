@@ -1,4 +1,4 @@
-# GDV6003 - Network Multiplayer Game Development # #
+# GDV6003 - Network Multiplayer Game Development # 
 
 ![](images/logo.png)
 
